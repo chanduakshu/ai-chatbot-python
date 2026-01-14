@@ -1,1 +1,8 @@
+--  Install Required Libraries:--
+1.nltk
+2.numpy
+--------......-------
+--  Install locally:--
+pip install -r requirements.txt
+
 
