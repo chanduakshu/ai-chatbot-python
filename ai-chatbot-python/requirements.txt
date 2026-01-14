@@ -4,5 +4,13 @@
 --------......-------
 --  Install locally:--
 pip install -r requirements.txt
+--------......-------
+--  Run the Chatbot:--
+python chatbot.py
 
 
+Sample Output:
+You: Hi
+Bot: Hello!
+You: Thanks
+Bot: You're welcome!
